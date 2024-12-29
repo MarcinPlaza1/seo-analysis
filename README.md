@@ -80,9 +80,6 @@ seo-master/
 4. Push to the branch (`git push origin feature/feature-name`)
 5. Create a Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
 ## Authors
 - Marcin Plaza - Lead Developer
 
